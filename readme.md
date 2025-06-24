@@ -9,7 +9,7 @@ A Streamlit app for product recommendations using text similarity, price, and ra
 ### 1. Install Dependencies
 
 ```bash
-pip install streamlit pandas scikit-learn
+pip install -r requirements.txt
 ```
 
 ### 2. Prepare Data
