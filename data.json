@@ -1,0 +1,738 @@
+[
+  {
+    "product_name": "Wireless Noise-Cancelling Headphones",
+    "price": 249.99,
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with active noise cancellation and 30-hour battery life.",
+    "rating": 4.7,
+    "brand": "AudioTech"
+  },
+  {
+    "product_name": "AudioTech Wireless Noise-Cancelling Headphones Pro",
+    "price": 349.99,
+    "category": "Electronics",
+    "description": "Premium wireless headphones with advanced noise cancellation, 40-hour battery, and premium leather padding.",
+    "rating": 4.8,
+    "brand": "AudioTech"
+  },
+  {
+    "product_name": "AudioTech Wireless Noise-Cancelling Headphones Lite",
+    "price": 179.99,
+    "category": "Electronics",
+    "description": "Budget-friendly wireless headphones with active noise cancellation and 25-hour battery life.",
+    "rating": 4.5,
+    "brand": "AudioTech"
+  },
+  {
+    "product_name": "AudioTech Studio Wireless Headphones",
+    "price": 299.99,
+    "category": "Electronics",
+    "description": "Professional studio-grade wireless headphones with flat frequency response and 35-hour battery.",
+    "rating": 4.6,
+    "brand": "AudioTech"
+  },
+  {
+    "product_name": "AudioTech Gaming Wireless Headphones",
+    "price": 199.99,
+    "category": "Electronics",
+    "description": "Gaming-focused wireless headphones with 7.1 surround sound and RGB lighting.",
+    "rating": 4.4,
+    "brand": "AudioTech"
+  },
+  {
+    "product_name": "Organic Cotton T-Shirt",
+    "price": 19.99,
+    "category": "Clothing",
+    "description": "Soft 100% organic cotton t-shirt available in multiple colors.",
+    "rating": 4.3,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "EcoWear Organic Cotton V-Neck T-Shirt",
+    "price": 22.99,
+    "category": "Clothing",
+    "description": "Premium organic cotton v-neck t-shirt with sustainable dyes in various colors.",
+    "rating": 4.4,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "EcoWear Organic Cotton Long Sleeve T-Shirt",
+    "price": 27.99,
+    "category": "Clothing",
+    "description": "Long sleeve organic cotton t-shirt perfect for layering and cooler weather.",
+    "rating": 4.2,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "EcoWear Organic Cotton Henley T-Shirt",
+    "price": 24.99,
+    "category": "Clothing",
+    "description": "Classic henley style organic cotton t-shirt with button placket detail.",
+    "rating": 4.5,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "EcoWear Organic Cotton Pocket T-Shirt",
+    "price": 21.99,
+    "category": "Clothing",
+    "description": "Casual organic cotton t-shirt with chest pocket and relaxed fit.",
+    "rating": 4.3,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "EcoWear Organic Cotton Striped T-Shirt",
+    "price": 23.99,
+    "category": "Clothing",
+    "description": "Trendy striped organic cotton t-shirt in classic navy and white pattern.",
+    "rating": 4.4,
+    "brand": "EcoWear"
+  },
+  {
+    "product_name": "Stainless Steel Water Bottle",
+    "price": 29.95,
+    "category": "Home & Kitchen",
+    "description": "Double-walled stainless steel bottle keeps drinks hot or cold for hours.",
+    "rating": 4.8,
+    "brand": "HydroFlask"
+  },
+  {
+    "product_name": "HydroFlask Insulated Water Bottle 32oz",
+    "price": 39.95,
+    "category": "Home & Kitchen",
+    "description": "Large capacity double-walled stainless steel bottle with wide mouth opening.",
+    "rating": 4.7,
+    "brand": "HydroFlask"
+  },
+  {
+    "product_name": "HydroFlask Sport Water Bottle",
+    "price": 34.95,
+    "category": "Home & Kitchen",
+    "description": "Sport cap stainless steel bottle designed for active lifestyles and easy drinking.",
+    "rating": 4.6,
+    "brand": "HydroFlask"
+  },
+  {
+    "product_name": "HydroFlask Kids Water Bottle",
+    "price": 24.95,
+    "category": "Home & Kitchen",
+    "description": "Smaller sized stainless steel bottle perfect for children with fun colors.",
+    "rating": 4.8,
+    "brand": "HydroFlask"
+  },
+  {
+    "product_name": "Smart LED Bulb",
+    "price": 14.99,
+    "category": "Smart Home",
+    "description": "Energy-efficient smart LED bulb with customizable colors, compatible with Alexa.",
+    "rating": 4.5,
+    "brand": "SmartLite"
+  },
+  {
+    "product_name": "SmartLite Color Changing LED Bulb",
+    "price": 19.99,
+    "category": "Smart Home",
+    "description": "RGB smart LED bulb with 16 million colors and music sync feature.",
+    "rating": 4.6,
+    "brand": "SmartLite"
+  },
+  {
+    "product_name": "SmartLite Dimmable LED Bulb",
+    "price": 12.99,
+    "category": "Smart Home",
+    "description": "Smart LED bulb with adjustable brightness levels and warm/cool white options.",
+    "rating": 4.4,
+    "brand": "SmartLite"
+  },
+  {
+    "product_name": "SmartLite Outdoor LED Bulb",
+    "price": 17.99,
+    "category": "Smart Home",
+    "description": "Weather-resistant smart LED bulb designed for outdoor fixtures.",
+    "rating": 4.3,
+    "brand": "SmartLite"
+  },
+  {
+    "product_name": "Running Shoes",
+    "price": 89.99,
+    "category": "Sports & Outdoors",
+    "description": "Lightweight running shoes with cushioned soles for comfort.",
+    "rating": 4.6,
+    "brand": "RunFast"
+  },
+  {
+    "product_name": "RunFast Marathon Running Shoes",
+    "price": 129.99,
+    "category": "Sports & Outdoors",
+    "description": "Professional marathon running shoes with carbon fiber plate and maximum energy return.",
+    "rating": 4.8,
+    "brand": "RunFast"
+  },
+  {
+    "product_name": "RunFast Trail Running Shoes",
+    "price": 109.99,
+    "category": "Sports & Outdoors",
+    "description": "Rugged trail running shoes with aggressive tread pattern and waterproof upper.",
+    "rating": 4.7,
+    "brand": "RunFast"
+  },
+  {
+    "product_name": "RunFast Casual Running Shoes",
+    "price": 69.99,
+    "category": "Sports & Outdoors",
+    "description": "Versatile running shoes suitable for daily wear and light jogging.",
+    "rating": 4.4,
+    "brand": "RunFast"
+  },
+  {
+    "product_name": "RunFast Women's Running Shoes",
+    "price": 84.99,
+    "category": "Sports & Outdoors",
+    "description": "Women-specific running shoes with enhanced arch support and feminine colorways.",
+    "rating": 4.5,
+    "brand": "RunFast"
+  },
+  {
+    "product_name": "4K Ultra HD Smart TV",
+    "price": 499.99,
+    "category": "Electronics",
+    "description": "55-inch 4K Smart TV with HDR and built-in streaming apps.",
+    "rating": 4.9,
+    "brand": "ViewTech"
+  },
+  {
+    "product_name": "ViewTech 65-inch 4K Ultra HD Smart TV",
+    "price": 699.99,
+    "category": "Electronics",
+    "description": "Large 65-inch 4K Smart TV with quantum dot technology and gaming mode.",
+    "rating": 4.8,
+    "brand": "ViewTech"
+  },
+  {
+    "product_name": "ViewTech 43-inch 4K Smart TV",
+    "price": 349.99,
+    "category": "Electronics",
+    "description": "Compact 43-inch 4K Smart TV perfect for bedrooms and smaller spaces.",
+    "rating": 4.7,
+    "brand": "ViewTech"
+  },
+  {
+    "product_name": "ViewTech OLED 4K Smart TV",
+    "price": 899.99,
+    "category": "Electronics",
+    "description": "Premium OLED 4K Smart TV with perfect blacks and infinite contrast.",
+    "rating": 4.9,
+    "brand": "ViewTech"
+  },
+  {
+    "product_name": "Non-Stick Cookware Set",
+    "price": 79.99,
+    "category": "Home & Kitchen",
+    "description": "10-piece non-stick cookware set for easy cooking and cleanup.",
+    "rating": 4.4,
+    "brand": "ChefMaster"
+  },
+  {
+    "product_name": "ChefMaster Ceramic Non-Stick Cookware Set",
+    "price": 99.99,
+    "category": "Home & Kitchen",
+    "description": "12-piece ceramic non-stick cookware set that's PFOA-free and dishwasher safe.",
+    "rating": 4.6,
+    "brand": "ChefMaster"
+  },
+  {
+    "product_name": "ChefMaster Professional Non-Stick Cookware Set",
+    "price": 149.99,
+    "category": "Home & Kitchen",
+    "description": "Professional-grade 15-piece non-stick cookware set with induction compatibility.",
+    "rating": 4.7,
+    "brand": "ChefMaster"
+  },
+  {
+    "product_name": "ChefMaster Compact Non-Stick Cookware Set",
+    "price": 59.99,
+    "category": "Home & Kitchen",
+    "description": "Space-saving 8-piece non-stick cookware set ideal for small kitchens.",
+    "rating": 4.3,
+    "brand": "ChefMaster"
+  },
+  {
+    "product_name": "Wireless Gaming Mouse",
+    "price": 59.99,
+    "category": "Electronics",
+    "description": "High-precision gaming mouse with RGB lighting and programmable buttons.",
+    "rating": 4.6,
+    "brand": "GamePro"
+  },
+  {
+    "product_name": "GamePro Wireless Gaming Mouse Pro",
+    "price": 89.99,
+    "category": "Electronics",
+    "description": "Professional esports gaming mouse with 25,000 DPI sensor and ultra-lightweight design.",
+    "rating": 4.8,
+    "brand": "GamePro"
+  },
+  {
+    "product_name": "GamePro Wireless Gaming Mouse Lite",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Budget-friendly wireless gaming mouse with essential gaming features.",
+    "rating": 4.4,
+    "brand": "GamePro"
+  },
+  {
+    "product_name": "GamePro MMO Gaming Mouse",
+    "price": 79.99,
+    "category": "Electronics",
+    "description": "MMO-focused gaming mouse with 12 side buttons and customizable macros.",
+    "rating": 4.5,
+    "brand": "GamePro"
+  },
+  {
+    "product_name": "Denim Jacket",
+    "price": 49.99,
+    "category": "Clothing",
+    "description": "Classic denim jacket with a modern fit for casual wear.",
+    "rating": 4.2,
+    "brand": "UrbanStyle"
+  },
+  {
+    "product_name": "UrbanStyle Distressed Denim Jacket",
+    "price": 59.99,
+    "category": "Clothing",
+    "description": "Trendy distressed denim jacket with vintage wash and frayed details.",
+    "rating": 4.3,
+    "brand": "UrbanStyle"
+  },
+  {
+    "product_name": "UrbanStyle Oversized Denim Jacket",
+    "price": 54.99,
+    "category": "Clothing",
+    "description": "Relaxed oversized denim jacket perfect for layering and street style.",
+    "rating": 4.1,
+    "brand": "UrbanStyle"
+  },
+  {
+    "product_name": "UrbanStyle Black Denim Jacket",
+    "price": 52.99,
+    "category": "Clothing",
+    "description": "Sleek black denim jacket with modern cut and premium denim fabric.",
+    "rating": 4.4,
+    "brand": "UrbanStyle"
+  },
+  {
+    "product_name": "Portable Camping Tent",
+    "price": 129.99,
+    "category": "Sports & Outdoors",
+    "description": "Waterproof 4-person camping tent, easy to set up.",
+    "rating": 4.7,
+    "brand": "OutdoorPro"
+  },
+  {
+    "product_name": "OutdoorPro 2-Person Backpacking Tent",
+    "price": 89.99,
+    "category": "Sports & Outdoors",
+    "description": "Lightweight 2-person tent designed for backpacking and hiking trips.",
+    "rating": 4.6,
+    "brand": "OutdoorPro"
+  },
+  {
+    "product_name": "OutdoorPro Family Camping Tent",
+    "price": 199.99,
+    "category": "Sports & Outdoors",
+    "description": "Spacious 6-person family tent with separate rooms and large vestibule.",
+    "rating": 4.8,
+    "brand": "OutdoorPro"
+  },
+  {
+    "product_name": "OutdoorPro Instant Popup Tent",
+    "price": 79.99,
+    "category": "Sports & Outdoors",
+    "description": "Quick-setup popup tent that assembles in under 60 seconds.",
+    "rating": 4.4,
+    "brand": "OutdoorPro"
+  },
+  {
+    "product_name": "Smart Thermostat",
+    "price": 99.99,
+    "category": "Smart Home",
+    "description": "Energy-saving smart thermostat with smartphone app control.",
+    "rating": 4.5,
+    "brand": "ClimateControl"
+  },
+  {
+    "product_name": "ClimateControl Learning Thermostat",
+    "price": 149.99,
+    "category": "Smart Home",
+    "description": "AI-powered smart thermostat that learns your schedule and preferences.",
+    "rating": 4.7,
+    "brand": "ClimateControl"
+  },
+  {
+    "product_name": "ClimateControl Basic Smart Thermostat",
+    "price": 79.99,
+    "category": "Smart Home",
+    "description": "Entry-level smart thermostat with essential scheduling features.",
+    "rating": 4.3,
+    "brand": "ClimateControl"
+  },
+  {
+    "product_name": "ClimateControl Pro Smart Thermostat",
+    "price": 199.99,
+    "category": "Smart Home",
+    "description": "Professional smart thermostat with advanced HVAC system integration.",
+    "rating": 4.8,
+    "brand": "ClimateControl"
+  },
+  {
+    "product_name": "Ceramic Coffee Mug Set",
+    "price": 24.99,
+    "category": "Home & Kitchen",
+    "description": "Set of 4 handcrafted ceramic mugs, dishwasher-safe.",
+    "rating": 4.3,
+    "brand": "HomeComfort"
+  },
+  {
+    "product_name": "Fitness Tracker Watch",
+    "price": 69.99,
+    "category": "Electronics",
+    "description": "Sleek fitness tracker for steps, heart rate, and sleep monitoring.",
+    "rating": 4.4,
+    "brand": "FitTrack"
+  },
+  {
+    "product_name": "FitTrack Advanced Fitness Watch",
+    "price": 129.99,
+    "category": "Electronics",
+    "description": "Advanced fitness watch with GPS, music storage, and 7-day battery life.",
+    "rating": 4.6,
+    "brand": "FitTrack"
+  },
+  {
+    "product_name": "FitTrack Basic Activity Tracker",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Simple activity tracker focusing on steps, calories, and basic health metrics.",
+    "rating": 4.2,
+    "brand": "FitTrack"
+  },
+  {
+    "product_name": "FitTrack Swimming Fitness Watch",
+    "price": 99.99,
+    "category": "Electronics",
+    "description": "Water-resistant fitness watch designed for swimmers with stroke counting.",
+    "rating": 4.5,
+    "brand": "FitTrack"
+  },
+  {
+    "product_name": "Leather Crossbody Bag",
+    "price": 39.99,
+    "category": "Clothing",
+    "description": "Stylish leather crossbody bag with adjustable straps.",
+    "rating": 4.6,
+    "brand": "StyleCraft"
+  },
+  {
+    "product_name": "StyleCraft Leather Shoulder Bag",
+    "price": 49.99,
+    "category": "Clothing",
+    "description": "Elegant leather shoulder bag with multiple compartments and gold hardware.",
+    "rating": 4.5,
+    "brand": "StyleCraft"
+  },
+  {
+    "product_name": "StyleCraft Leather Clutch Bag",
+    "price": 29.99,
+    "category": "Clothing",
+    "description": "Compact leather clutch perfect for evenings out and special occasions.",
+    "rating": 4.4,
+    "brand": "StyleCraft"
+  },
+  {
+    "product_name": "StyleCraft Leather Tote Bag",
+    "price": 59.99,
+    "category": "Clothing",
+    "description": "Spacious leather tote bag ideal for work and daily essentials.",
+    "rating": 4.7,
+    "brand": "StyleCraft"
+  },
+  {
+    "product_name": "Yoga Mat",
+    "price": 34.99,
+    "category": "Sports & Outdoors",
+    "description": "Eco-friendly non-slip yoga mat with extra cushioning.",
+    "rating": 4.8,
+    "brand": "ZenFlow"
+  },
+  {
+    "product_name": "ZenFlow Premium Yoga Mat",
+    "price": 49.99,
+    "category": "Sports & Outdoors",
+    "description": "Premium yoga mat with natural rubber base and alignment lines.",
+    "rating": 4.9,
+    "brand": "ZenFlow"
+  },
+  {
+    "product_name": "ZenFlow Travel Yoga Mat",
+    "price": 24.99,
+    "category": "Sports & Outdoors",
+    "description": "Lightweight foldable yoga mat perfect for travel and outdoor practice.",
+    "rating": 4.6,
+    "brand": "ZenFlow"
+  },
+  {
+    "product_name": "ZenFlow Hot Yoga Mat",
+    "price": 44.99,
+    "category": "Sports & Outdoors",
+    "description": "Extra-grip yoga mat designed specifically for hot yoga and intense sessions.",
+    "rating": 4.7,
+    "brand": "ZenFlow"
+  },
+  {
+    "product_name": "Bluetooth Speaker",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with 12-hour battery life and waterproof design.",
+    "rating": 4.5,
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "SoundWave Waterproof Bluetooth Speaker",
+    "price": 59.99,
+    "category": "Electronics",
+    "description": "Rugged waterproof Bluetooth speaker with 360-degree sound and 20-hour battery.",
+    "rating": 4.7,
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "SoundWave Mini Bluetooth Speaker",
+    "price": 24.99,
+    "category": "Electronics",
+    "description": "Ultra-compact Bluetooth speaker with surprisingly powerful sound.",
+    "rating": 4.3,
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "SoundWave Party Bluetooth Speaker",
+    "price": 89.99,
+    "category": "Electronics",
+    "description": "High-power Bluetooth speaker with LED lights and party mode features.",
+    "rating": 4.6,
+    "brand": "SoundWave"
+  },
+  {
+    "product_name": "Wool Scarf",
+    "price": 29.99,
+    "category": "Clothing",
+    "description": "Warm and soft wool scarf in various patterns.",
+    "rating": 4.3,
+    "brand": "WinterWear"
+  },
+  {
+    "product_name": "WinterWear Cashmere Scarf",
+    "price": 79.99,
+    "category": "Clothing",
+    "description": "Luxurious cashmere scarf with ultra-soft texture and elegant drape.",
+    "rating": 4.8,
+    "brand": "WinterWear"
+  },
+  {
+    "product_name": "WinterWear Plaid Wool Scarf",
+    "price": 34.99,
+    "category": "Clothing",
+    "description": "Classic plaid wool scarf in traditional tartan patterns.",
+    "rating": 4.4,
+    "brand": "WinterWear"
+  },
+  {
+    "product_name": "WinterWear Infinity Wool Scarf",
+    "price": 24.99,
+    "category": "Clothing",
+    "description": "Cozy infinity-style wool scarf that's easy to wear and style.",
+    "rating": 4.2,
+    "brand": "WinterWear"
+  },
+  {
+    "product_name": "Air Fryer",
+    "price": 89.99,
+    "category": "Home & Kitchen",
+    "description": "5-quart air fryer for healthy cooking with digital controls.",
+    "rating": 4.7,
+    "brand": "HealthyCook"
+  },
+  {
+    "product_name": "HealthyCook Large Air Fryer",
+    "price": 129.99,
+    "category": "Home & Kitchen",
+    "description": "8-quart family-sized air fryer with dual cooking zones and smart presets.",
+    "rating": 4.8,
+    "brand": "HealthyCook"
+  },
+  {
+    "product_name": "HealthyCook Compact Air Fryer",
+    "price": 59.99,
+    "category": "Home & Kitchen",
+    "description": "Compact 3-quart air fryer perfect for small households and countertop spaces.",
+    "rating": 4.5,
+    "brand": "HealthyCook"
+  },
+  {
+    "product_name": "HealthyCook Air Fryer Oven",
+    "price": 179.99,
+    "category": "Home & Kitchen",
+    "description": "Multi-function air fryer oven with rotisserie, dehydrator, and baking features.",
+    "rating": 4.9,
+    "brand": "HealthyCook"
+  },
+  {
+    "product_name": "Smart Doorbell",
+    "price": 149.99,
+    "category": "Smart Home",
+    "description": "Wi-Fi smart doorbell with HD video and motion detection.",
+    "rating": 4.6,
+    "brand": "SecureHome"
+  },
+  {
+    "product_name": "SecureHome Wireless Video Doorbell",
+    "price": 199.99,
+    "category": "Smart Home",
+    "description": "Battery-powered video doorbell with 2-way audio and cloud storage.",
+    "rating": 4.7,
+    "brand": "SecureHome"
+  },
+  {
+    "product_name": "SecureHome Smart Doorbell Pro",
+    "price": 249.99,
+    "category": "Smart Home",
+    "description": "Premium smart doorbell with 4K video, facial recognition, and package detection.",
+    "rating": 4.8,
+    "brand": "SecureHome"
+  },
+  {
+    "product_name": "SecureHome Basic Smart Doorbell",
+    "price": 99.99,
+    "category": "Smart Home",
+    "description": "Entry-level smart doorbell with essential video monitoring features.",
+    "rating": 4.4,
+    "brand": "SecureHome"
+  },
+  {
+    "product_name": "Hiking Backpack",
+    "price": 59.99,
+    "category": "Sports & Outdoors",
+    "description": "Durable 40L hiking backpack with multiple compartments.",
+    "rating": 4.4,
+    "brand": "TrailBlazer"
+  },
+  {
+    "product_name": "TrailBlazer Expedition Backpack",
+    "price": 149.99,
+    "category": "Sports & Outdoors",
+    "description": "70L expedition backpack with advanced suspension system and weather protection.",
+    "rating": 4.8,
+    "brand": "TrailBlazer"
+  },
+  {
+    "product_name": "TrailBlazer Day Hiking Backpack",
+    "price": 39.99,
+    "category": "Sports & Outdoors",
+    "description": "Lightweight 25L day pack perfect for short hikes and daily adventures.",
+    "rating": 4.5,
+    "brand": "TrailBlazer"
+  },
+  {
+    "product_name": "TrailBlazer Women's Hiking Backpack",
+    "price": 64.99,
+    "category": "Sports & Outdoors",
+    "description": "Women-specific 35L hiking backpack with adjusted torso length and hip belt.",
+    "rating": 4.6,
+    "brand": "TrailBlazer"
+  },
+  {
+    "product_name": "Laptop Stand",
+    "price": 24.99,
+    "category": "Electronics",
+    "description": "Adjustable aluminum laptop stand for ergonomic viewing.",
+    "rating": 4.5,
+    "brand": "ErgoTech"
+  },
+  {
+    "product_name": "ErgoTech Portable Laptop Stand",
+    "price": 19.99,
+    "category": "Electronics",
+    "description": "Foldable laptop stand that's perfect for travel and mobile work setups.",
+    "rating": 4.3,
+    "brand": "ErgoTech"
+  },
+  {
+    "product_name": "ErgoTech Premium Laptop Stand",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Premium laptop stand with cooling fan and multiple height adjustments.",
+    "rating": 4.7,
+    "brand": "ErgoTech"
+  },
+  {
+    "product_name": "ErgoTech Wooden Laptop Stand",
+    "price": 34.99,
+    "category": "Electronics",
+    "description": "Eco-friendly wooden laptop stand with natural bamboo construction.",
+    "rating": 4.4,
+    "brand": "ErgoTech"
+  },
+  {
+    "product_name": "Knit Sweater",
+    "price": 39.99,
+    "category": "Clothing",
+    "description": "Cozy knit sweater perfect for layering in cool weather.",
+    "rating": 4.2,
+    "brand": "CozyKnits"
+  },
+  {
+    "product_name": "CozyKnits Cable Knit Sweater",
+    "price": 54.99,
+    "category": "Clothing",
+    "description": "Classic cable knit sweater with intricate pattern and premium wool blend.",
+    "rating": 4.5,
+    "brand": "CozyKnits"
+  },
+  {
+    "product_name": "CozyKnits Turtleneck Sweater",
+    "price": 44.99,
+    "category": "Clothing",
+    "description": "Elegant turtleneck sweater in soft merino wool for sophisticated style.",
+    "rating": 4.4,
+    "brand": "CozyKnits"
+  },
+  {
+    "product_name": "CozyKnits Cardigan Sweater",
+    "price": 49.99,
+    "category": "Clothing",
+    "description": "Versatile cardigan sweater with button front and cozy pockets.",
+    "rating": 4.3,
+    "brand": "CozyKnits"
+  },
+  {
+    "product_name": "CozyKnits Pullover Sweater",
+    "price": 42.99,
+    "category": "Clothing",
+    "description": "Comfortable pullover sweater with ribbed cuffs and relaxed fit.",
+    "rating": 4.1,
+    "brand": "CozyKnits"
+  },
+  {
+    "product_name": "Electric Kettle",
+    "price": 34.99,
+    "category": "Home & Kitchen",
+    "description": "1.7L stainless steel electric kettle with auto shut-off.",
+    "rating": 4.6,
+    "brand": "QuickBoil"
+  },
+  {
+    "product_name": "Smart Plug",
+    "price": 19.99,
+    "category": "Smart Home",
+    "description": "Wi-Fi smart plug for remote control of appliances.",
+    "rating": 4.4,
+    "brand": "SmartConnect"
+  }
+]   
